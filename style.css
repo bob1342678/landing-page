@@ -92,7 +92,7 @@ li {
 .content {
     display: flex;
     justify-content: center;
-    align-items: center;
+    /*align-items: center; */
     padding: 64px;
     gap: 72px;
 }
